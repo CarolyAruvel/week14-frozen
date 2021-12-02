@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\logitpe21\FrozenChallenge\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\FrozenChallenge\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\FrozenChallenge\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\FrozenChallenge\FrozenChallenge\obj\Debug\netcoreapp3.1\FrozenChallenge.csproj.CoreCompileInputs.cache
